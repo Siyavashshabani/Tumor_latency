@@ -17,3 +17,10 @@ Run the main.R code that is Jinsong code:
 Add feature names of output of Jongsong code
 
 `python add_feature_names_csv.py`
+
+
+## Fourth step
+
+Aggretating the p-values of all treatments. 
+
+`python analysis.py w5`
