@@ -1,0 +1,29 @@
+Names,aspirin_ir+aspirin,aspirin_ir,aspirin_sham,ir+aspirin_sham,ir_ir+aspirin,ir_sham
+K14+_Freq.,,,,,,
+K18+_Freq.,8.20E-70,,,,0.075742548,
+Lymphocytes_Freq.,1.01E-178,,,,,
+CD3+_Lympho,1.07E-70,,,0.128488207,,0.154135714
+CD8+_Lympho,0,,,,,
+Double_Negative_Freq.,,,,,,
+cells_with_lymphos_neighbors,,,,,,
+cells_with_othercells_neighbors,,,,,,
+equal_neighbors(lympho_and_other),0,,,,,
+Small_area,,,,,,0.07699869
+Large_area,,,,,0.310272774,
+Pleomorphism_Low,,0.060050099,0.007088097,,0.400566196,
+Pleomorphism_High,,0.909887825,,,0.968690607,
+Crircular_cells_Freq.,0,,,3.90E-08,,0.182756438
+Elongated_cells_Freq.,0.985099533,,,0.889470351,,
+low_mean_DAPI_signal,0,,,,,
+high_mean_DAPI_signal,0.948970969,,,,,
+low_total_DAPI,,,,,,
+high_total_DAPI,,,,,,
+pSMAD+_Freq.,3.34E-63,,,,,
+Ki67+_Freq.,0,,,,,
+caspase+_Freq.,,0.041854594,,,0.613270747,0.007851701
+High_Cellularity,0,,,,,
+Low_Cellularity,0.946511416,,,,,
+ER status,1.25E-206,,,,0.173488416,0.064300303
+PR status,7.83E-219,,,,,0.48503556
+Latency,3.26E-08,0.000151785,,,1.77E-06,0.001924426
+Doubling Time,3.22E-170,,,,0.048369933,0.005277207

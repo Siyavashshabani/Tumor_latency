@@ -7,7 +7,7 @@ def main(age):
     csv_directory_path = 'C:\\Shabani\\Projects\\tumor_latency\\data\\output_r_joint_features\\'
 
     # Set the path for the names
-    names_path = "C:\\Shabani\\Projects\\tumor_latency\\data\\column_names.csv"
+    names_path = "C:\\Shabani\\Projects\\tumor_latency\\data\\names.csv"
     
     # Set the directory path where the results should be saved
     saved_path = 'C:\\Shabani\\Projects\\tumor_latency\\data\\analysis\\'
