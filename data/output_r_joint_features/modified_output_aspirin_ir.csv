@@ -1,32 +1,8 @@
-V1,V2,V3,V4,V5,V6,V7,Unnamed: 7,Unnamed: 8,Unnamed: 9,Names
-11,-0.948010027,1.360133449,-3.613822602,1.717802548,0.485805938,0.485804168,,,,Large_area
-12,-7.407833225,2.728837784,-12.756257,-2.059409448,7.369312155,0.006634631,,,,Pleomorphism_Low
-13,0.029271878,0.404360272,-0.763259692,0.821803448,0.005240397,0.942291075,,,K14+_Freq.,Pleomorphism_High
-22,-3.517069436,1.297678039,-6.060471656,-0.973667217,7.345611837,0.006722665,,,K18+_Freq.,caspase+_Freq.
-26,-1.090244079,0.811078147,-2.679928036,0.499439877,1.80684989,0.178886578,,,Lymphocytes_Freq.,ER status
-27,0.073240029,0.019001101,0.035998556,0.110481502,14.85728641,0.000115959,,,CD3+_Lympho,PR status
-0,,,,,,,,,CD8+_Lympho,Index out of range
-0,,,,,,,,,Double_Negative_Freq.,Index out of range
-0,,,,,,,,,cells_with_lymphos_neighbors,Index out of range
-0,K18+_Freq. ,Lymphocytes_Freq.,,,,,,,cells_with_othercells_neighbors,Index out of range
-0,,,,,,,,,equal_neighbors(lympho_and_other),Index out of range
-0,,,,,,,,,Small_area,Index out of range
-0,,,,,,,,,Large_area,Index out of range
-0,,,,,,,,,Pleomorphism_Low,Index out of range
-0,,,,,,,,,Pleomorphism_High,Index out of range
-0,,,,,,,,,Crircular_cells_Freq.,Index out of range
-0,,,,,,,,,Elongated_cells_Freq.,Index out of range
-0,,,,,,,,,low_mean_DAPI_signal,Index out of range
-0,,,,,,,,,high_mean_DAPI_signal,Index out of range
-0,,,,,,,,,low_total_DAPI,Index out of range
-0,,,,,,,,,high_total_DAPI,Index out of range
-0,,,,,,,,,pSMAD+_Freq.,Index out of range
-0,,,,,,,,,Ki67+_Freq.,Index out of range
-0,,,,,,,,,caspase+_Freq.,Index out of range
-0,,,,,,,,,High_Cellularity,Index out of range
-0,,,,,,,,,Low_Cellularity,Index out of range
-0,,,,,,,,,Treatment,Index out of range
-0,,,,,,,,,ER status,Index out of range
-0,,,,,,,,,PR status,Index out of range
-0,,,,,,,,,Latency,Index out of range
-0,,,,,,,,,Doubling Time,Index out of range
+V1,V2,V3,V4,V5,V6,V7,Names
+7,0.472717950796949,0.849018390364059,-1.19132751652877,2.13676341812267,0.310005924514511,0.577676549845272,cells_with_lymphos_neighbors
+11,-1.37954551903929,1.38312469281224,-4.0904201030793,1.33132906500072,0.994831206763477,0.318564445182233,Large_area
+12,-8.28875462075874,2.87107181851844,-13.9159519820828,-2.66155725943468,8.33470923174461,0.0038894702633752,Pleomorphism_Low
+13,0.0254553086827128,0.408550807163661,-0.775289559212832,0.826200176578257,0.0038820809754434,0.950318873492059,Pleomorphism_High
+22,-4.07769091283934,1.42476600571529,-6.8701809704383,-1.28520085524038,8.19108660358168,0.0042096702099901,caspase+_Freq.
+26,-1.18097710170759,0.806924932852363,-2.76252090832562,0.400566704910444,2.14198627908373,0.14331622555595,PR status
+27,0.0744429530302318,0.0196418981942796,0.0359455399814416,0.112940366079022,14.364161311057,0.0001506423793186,Latency
