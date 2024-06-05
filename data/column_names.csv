@@ -1,0 +1,29 @@
+K14+_Freq.
+K18+_Freq.
+Lymphocytes_Freq.
+CD3+_Lympho
+CD8+_Lympho
+Double_Negative_Freq.
+cells_with_lymphos_neighbors
+cells_with_othercells_neighbors
+equal_neighbors(lympho_and_other)
+Small_area
+Large_area
+Pleomorphism_Low
+Pleomorphism_High
+Crircular_cells_Freq.
+Elongated_cells_Freq.
+low_mean_DAPI_signal
+high_mean_DAPI_signal
+low_total_DAPI
+high_total_DAPI
+pSMAD+_Freq.
+Ki67+_Freq.
+caspase+_Freq.
+High_Cellularity
+Low_Cellularity
+Treatment
+ER status
+PR status
+Latency
+Doubling Time

@@ -1,0 +1,32 @@
+V1,V2,V3,V4,V5,V6,V7,Unnamed: 7,Unnamed: 8,Unnamed: 9,Names
+11,-0.948010027,1.360133449,-3.613822602,1.717802548,0.485805938,0.485804168,,,,Large_area
+12,-7.407833225,2.728837784,-12.756257,-2.059409448,7.369312155,0.006634631,,,,Pleomorphism_Low
+13,0.029271878,0.404360272,-0.763259692,0.821803448,0.005240397,0.942291075,,,K14+_Freq.,Pleomorphism_High
+22,-3.517069436,1.297678039,-6.060471656,-0.973667217,7.345611837,0.006722665,,,K18+_Freq.,caspase+_Freq.
+26,-1.090244079,0.811078147,-2.679928036,0.499439877,1.80684989,0.178886578,,,Lymphocytes_Freq.,ER status
+27,0.073240029,0.019001101,0.035998556,0.110481502,14.85728641,0.000115959,,,CD3+_Lympho,PR status
+0,,,,,,,,,CD8+_Lympho,Index out of range
+0,,,,,,,,,Double_Negative_Freq.,Index out of range
+0,,,,,,,,,cells_with_lymphos_neighbors,Index out of range
+0,K18+_Freq. ,Lymphocytes_Freq.,,,,,,,cells_with_othercells_neighbors,Index out of range
+0,,,,,,,,,equal_neighbors(lympho_and_other),Index out of range
+0,,,,,,,,,Small_area,Index out of range
+0,,,,,,,,,Large_area,Index out of range
+0,,,,,,,,,Pleomorphism_Low,Index out of range
+0,,,,,,,,,Pleomorphism_High,Index out of range
+0,,,,,,,,,Crircular_cells_Freq.,Index out of range
+0,,,,,,,,,Elongated_cells_Freq.,Index out of range
+0,,,,,,,,,low_mean_DAPI_signal,Index out of range
+0,,,,,,,,,high_mean_DAPI_signal,Index out of range
+0,,,,,,,,,low_total_DAPI,Index out of range
+0,,,,,,,,,high_total_DAPI,Index out of range
+0,,,,,,,,,pSMAD+_Freq.,Index out of range
+0,,,,,,,,,Ki67+_Freq.,Index out of range
+0,,,,,,,,,caspase+_Freq.,Index out of range
+0,,,,,,,,,High_Cellularity,Index out of range
+0,,,,,,,,,Low_Cellularity,Index out of range
+0,,,,,,,,,Treatment,Index out of range
+0,,,,,,,,,ER status,Index out of range
+0,,,,,,,,,PR status,Index out of range
+0,,,,,,,,,Latency,Index out of range
+0,,,,,,,,,Doubling Time,Index out of range
