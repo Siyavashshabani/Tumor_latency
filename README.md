@@ -19,7 +19,7 @@ Add feature names of output of Jongsong code
 `python add_feature_names_csv.py`
 
 
-## Fourth step
+## Forth step
 
 Aggretating the p-values of all treatments. 
 
