@@ -14,7 +14,7 @@ Run the main.R code that is Jinsong code:
 
 ## Third step
 
-Add feature names of output of Jongsong code
+Add feature names to the output of Jinsong code
 
 `python add_feature_names_csv.py`
 
