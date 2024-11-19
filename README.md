@@ -1,4 +1,4 @@
-## How to run the code 
+## How to run the code:
 
 ## Frist step 
 
