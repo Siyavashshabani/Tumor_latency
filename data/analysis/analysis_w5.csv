@@ -1,29 +1,29 @@
 Names,aspirin_ir+aspirin,aspirin_ir,aspirin_sham,ir+aspirin_sham,ir_ir+aspirin,ir_sham
-K14+_Freq.,,,5.69E-45,,,
-K18+_Freq.,3.62E-42,,1.52E-22,,0.246735801,
-Lymphocytes_Freq.,3.41E-57,,,,,
-CD3+_Lympho,1.51E-35,,1.01E-12,,,
-CD8+_Lympho,1.55E-267,,,,,
-Double_Negative_Freq.,,,2.89E-10,,,
-cells_with_lymphos_neighbors,,0.57767655,8.19E-140,,,
-cells_with_othercells_neighbors,,,1.88E-159,,,
-equal_neighbors(lympho_and_other),0,,,,,
-Small_area,,,0,,,
-Large_area,,0.318564445,,,,
-Pleomorphism_Low,,0.00388947,2.46E-84,,0.489379432,
-Pleomorphism_High,,0.950318873,3.49E-73,,0.94949557,
-Crircular_cells_Freq.,0,,4.53E-47,0.001224662,,
-Elongated_cells_Freq.,,,0,0.857882052,,
-low_mean_DAPI_signal,0,,0,,,
-high_mean_DAPI_signal,0.945083424,,0.976707683,,,
+K14+_Freq.,0.404622822191853,,,,,
+K18+_Freq.,,,,,,0.31660423557508
+Lymphocytes_Freq.,,,,,,
+CD3+_Lympho,,,0.0018492226387665,,,
+CD8+_Lympho,0.0084728583636853,,,0.212907112090661,,
+Double_Negative_Freq.,0.309936804396525,,,,,0.283617852915378
+cells_with_lymphos_neighbors,,,,,,
+cells_with_othercells_neighbors,,,,,,
+equal_neighbors(lympho_and_other),1.80727590961221e-190,,,0.0068829447870669,1.93560243887074e-05,
+Small_area,,,,,,
+Large_area,,,,,,
+Pleomorphism_Low,,,,,,1.13729678479128e-16
+Pleomorphism_High,,,,,,
+Crircular_cells_Freq.,1.00704861437199e-45,,,,,2.75280171321633e-44
+Elongated_cells_Freq.,,,,,,
+low_mean_DAPI_signal,1.32901512239187e-69,,0.183433903316995,,,
+high_mean_DAPI_signal,0.826211300205166,,,,,
 low_total_DAPI,,,,,,
 high_total_DAPI,,,,,,
-pSMAD+_Freq.,1.77E-36,,4.08E-31,,,
-Ki67+_Freq.,1.29E-236,,9.96E-116,,,
-caspase+_Freq.,,0.00420967,4.08E-75,,,0.05070506
-High_Cellularity,0,,,,,
-Low_Cellularity,0.940401029,,,,,
-ER status,2.64E-91,,1.82E-58,,0.127150055,0.131257407
-PR status,4.26E-100,0.143316226,8.69E-140,,,0.317972714
-Latency,0.000779536,0.000150642,0.028871478,,1.51E-05,0.007540891
-Doubling Time,4.35E-87,,0.003632801,,0.075666825,0.015670722
+pSMAD+_Freq.,0.0106359510108674,,,,,
+Ki67+_Freq.,,,0.0008280194631585,,,
+caspase+_Freq.,,,,0.064569585707805,,0.0030338539395816
+High_Cellularity,0.0,,1.56248471830071e-45,,8.18355207897383e-122,1.1183529190038e-181
+Low_Cellularity,,,,,,0.745650229483919
+ER status,,,,,,
+PR status,4.09544635554355e-07,0.0048886038116223,,,0.0008273287800815,1.24361823020208e-09
+Latency,,,0.0001225196140416,,,2.27518824014469e-05
+Doubling Time,4.20109188235333e-05,,,,,0.0252149436927851

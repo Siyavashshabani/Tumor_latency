@@ -33,9 +33,9 @@ def add_feature_names_csv(names_file_path, csv_directory_path, save_directory_pa
 
 if __name__ == "__main__":
     # Define paths
-    names_file_path = 'C:\\Shabani\\Projects\\tumor_latency\\data\\column_names.csv'
-    csv_directory_path = 'C:\\Shabani\\Projects\\tumor_latency\\data\\output_r\\'
-    save_directory_path = 'C:\\Shabani\\Projects\\tumor_latency\\data\\output_r_joint_features\\'
+    names_file_path = 'C:\\Shabani\\Projects\\sahar_tumor_latecy_analysis\\columns.csv'
+    csv_directory_path = 'C:\\Shabani\Projects\\sahar_tumor_latecy_analysis\\output_r\\'
+    save_directory_path = 'C:\\Shabani\Projects\\sahar_tumor_latecy_analysis\\output_r_joint_features\\'
 
     # Call the function
     add_feature_names_csv(names_file_path, csv_directory_path, save_directory_path)
